@@ -10,7 +10,7 @@ Este é um projeto Python para automatização contábil, que calcula o saldo to
 
 # Exeplo gráfico
 <div>
-  <img src=''>
+  <img width=450 src='https://github.com/lucasbezerrapro/automa-o_de_demonstra-o_contabil/blob/main/Capturarexemploautoma%C3%A7%C3%A3o.PNG?raw=true'>
 </div>
 
 ## Funcionalidades
