@@ -9,8 +9,8 @@
 Este é um projeto Python para automatização contábil, que calcula o saldo total das transações a partir de um arquivo CSV de entrada e salva o saldo total em outro arquivo CSV.
 
 # Exeplo gráfico
-<div>
-  <img width=450 src='https://github.com/lucasbezerrapro/automa-o_de_demonstra-o_contabil/blob/main/Capturarexemploautoma%C3%A7%C3%A3o.PNG?raw=true'>
+<div style='display: flex; justify-content: center;'>
+  <img width=1200 src='https://github.com/lucasbezerrapro/automa-o_de_demonstra-o_contabil/blob/main/img/exemplo.jpg?raw=true'>
 </div>
 
 ## Funcionalidades
