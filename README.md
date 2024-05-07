@@ -1,4 +1,7 @@
-Claro! Aqui está a documentação em formato Markdown (`.md`) para o GitHub:
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/seu-usuario/seu-repositorio)
+[![Total Downloads](https://img.shields.io/badge/downloads-100k-blue)](https://github.com/seu-usuario/seu-repositorio)
+[![Latest Stable Version](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/seu-usuario/seu-repositorio)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/seu-usuario/seu-repositorio/blob/main/LICENSE)
 
 ```markdown
 # Automatização Contábil
@@ -62,5 +65,3 @@ data,descricao,valor
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
-
-Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
