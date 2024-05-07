@@ -3,10 +3,15 @@
 [![Latest Stable Version](https://img.shields.io/badge/version-1.0.0-orange)](https://github.com/seu-usuario/seu-repositorio)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/seu-usuario/seu-repositorio/blob/main/LICENSE)
 
-```markdown
+
 # Automatização Contábil
 
 Este é um projeto Python para automatização contábil, que calcula o saldo total das transações a partir de um arquivo CSV de entrada e salva o saldo total em outro arquivo CSV.
+
+# Exeplo gráfico
+<div>
+  <img src=''>
+</div>
 
 ## Funcionalidades
 
@@ -25,7 +30,7 @@ Este é um projeto Python para automatização contábil, que calcula o saldo to
 ## Como Usar
 
 1. Instale as dependências necessárias:
-   ```bash
+```bash
    pip install pandas tabulate colorama
    ```
 
@@ -64,4 +69,3 @@ data,descricao,valor
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
